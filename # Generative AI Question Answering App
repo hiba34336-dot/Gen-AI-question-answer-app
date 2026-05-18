@@ -1,0 +1,1 @@
+This project is a simple AI-powered Question Answering application built with Python, Hugging Face Transformers, and Gradio. The app allows users to provide a paragraph and ask questions based on the given context. The pretrained NLP model extracts the correct answer automatically and displays it through an interactive web interface.
